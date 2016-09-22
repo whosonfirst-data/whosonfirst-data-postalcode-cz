@@ -9,11 +9,12 @@
     "geom:latitude":0.0,
     "geom:longitude":0.0,
     "iso:country":"CZ",
+    "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
+        85682437,
         85633105,
-        85907611,
-        85682437
+        85907611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -30,10 +31,11 @@
         }
     ],
     "wof:id":538097723,
-    "wof:lastmodified":1460062133,
+    "wof:lastmodified":1474569577,
     "wof:name":"190 17",
     "wof:parent_id":"85907611",
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-cz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
